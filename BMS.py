@@ -147,6 +147,7 @@ def transfer(a):
 def passbook(a):
     print(pass_book)
 
+print("Welcome To Fuzzy Buzzy Bank")
 num_of_tries = 3
 while (num_of_tries!=0):
     check_acc_num=int(input("Please 11-Digit Account Number:  "))
